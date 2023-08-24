@@ -1,5 +1,5 @@
 # Covid-19-Analysis-Dashboard
-![Dashboard 1 (2) (1)](https://github.com/muskankazi27/Covid-19-Analysis-Dashboard/assets/117185930/bab68461-8067-4f80-8de7-994b6c3acab0)
+![Dashboard 1 (2) (2)](https://github.com/muskankazi27/Covid-19-Analysis-Dashboard/assets/117185930/6c23164b-68a4-4b37-b8d0-f28987a6e8dc)
 
 1. Data Collection: Gathered Covid-19 data from reliable sources, including confirmed cases, deaths, recoveries, and vaccination records.
 
